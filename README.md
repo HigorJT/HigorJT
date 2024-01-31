@@ -1,6 +1,6 @@
 # Hey, I'm Higor de Jesus 🤓
 
-### 💻 Web Developer
+### 💻 Web Developer/ QA Automation
   
   Motivated by the passion for technology and constant curiosity to seek different solutions to solve problems around me, I got involved in the area of software development. Currently my focus of study and development is the area of Web Development, where I seek to improve my technical knowledge and also improve my skills in Soft Skills. I am interested in innovative projects that add value to people's lives, always valuing communication and collaboration.
 
